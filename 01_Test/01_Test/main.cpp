@@ -1,3 +1,4 @@
+﻿#pragma execution_character_set("utf-8")
 #include "widget.h"// 窗口控件基类
 
 #include <QApplication>// 包含一个应用程序类的头文件

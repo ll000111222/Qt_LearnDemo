@@ -1,3 +1,4 @@
+﻿#pragma execution_character_set("utf-8")
 #include "widget.h"
 #include <QPushButton>
 
@@ -27,7 +28,7 @@ Widget::Widget(QWidget *parent)
     // 移动位置
     btn->move(100, 100);
     // 显示文本
-    btn->setText("123");
+    btn->setText("1 你好23");
     // 重新指定按钮大小
     btn->resize(100, 100);
     // show，以顶层方式弹出窗口控件
